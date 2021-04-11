@@ -1,0 +1,41 @@
+.counter_wrapper{
+    padding: 15px;
+    max-width: 200px;
+    width: 100%; 
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.count_screen{
+    border: 1px solid black;
+    max-width: 100px;
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.count_output{
+    border: 1px solid black;
+    max-width: 100px;
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+
+.buttons_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.buttons_wrapper > button{
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+}
+.content_home{
+ margin: 40px;
+}
